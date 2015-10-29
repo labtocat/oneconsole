@@ -1,0 +1,7 @@
+setup.py
+oneconsole/__init__.py
+oneconsole.egg-info/PKG-INFO
+oneconsole.egg-info/SOURCES.txt
+oneconsole.egg-info/dependency_links.txt
+oneconsole.egg-info/not-zip-safe
+oneconsole.egg-info/top_level.txt
