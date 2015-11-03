@@ -1,6 +1,6 @@
+README.rst
 setup.py
 oneconsole/__init__.py
-oneconsole/main.py
 oneconsole.egg-info/PKG-INFO
 oneconsole.egg-info/SOURCES.txt
 oneconsole.egg-info/dependency_links.txt
